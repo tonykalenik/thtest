@@ -46,7 +46,7 @@ development:
 test:
   adapter: postgresql
   encoding: unicode
-  database: thtest_test
+  database: thtest_test_base
   pool: 5
   username: thtest
   password:
